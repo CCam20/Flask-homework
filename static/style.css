@@ -1,0 +1,28 @@
+body{
+    background-color: dodgerblue;
+}
+body h1 {
+    color: white;
+    background-color: grey;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+}
+#mainlinks{
+    text-decoration: none;
+    color: white;
+}
+
+#mainlinks:hover{
+    text-decoration: underline;
+
+}
+#bodyorders{
+    color: white;
+}
+body p{
+    background-color: grey;
+    display: inline-flex
+
+
+}
